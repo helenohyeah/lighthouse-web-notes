@@ -9,3 +9,4 @@ This repository contains all the notes taken by [Helen](https://github.com/helen
 
 ## Helpful Links
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [12 Week Curriculum](https://docs.google.com/presentation/d/1m3R_aN4S5YoCBmXRbjaZQGatygWyZXYLcN-fkcP_HWA/edit#slide=id.g167e960765_0_0)
