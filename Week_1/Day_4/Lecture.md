@@ -37,3 +37,5 @@ Topic: Callbacks
 ```javascript
 const eqArrays = require('./eqArrays.js');
 ```
+* scope of var is only limited by function
+* scope of let, const is limited by function, loop, condition scope
